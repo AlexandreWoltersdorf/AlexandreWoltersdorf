@@ -9,7 +9,7 @@ I bridge the gap between **Structural Engineering** and **Modern Software Archit
 Leading computational engineering at **LEKO LABS**, developing Python-based pipelines for automated timber manufacturing and structural analysis.
 
 > **⚠️ Note on GitHub Activity:**
-> Most of my daily contributions take place in private organization repositories at **LEKO LABS**.
+> Most of my daily contributions take place in private organization repositories.
 > The repositories below represent my personal R&D experiments and portfolio projects.
 
 ---
