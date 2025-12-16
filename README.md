@@ -45,7 +45,7 @@ Interactive financial dashboard for portfolio tracking and risk analysis (Drawdo
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ton-profil-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/alexandre-woltersdorf/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </div>
