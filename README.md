@@ -1,16 +1,51 @@
-## Hi there 👋
+### Hi there, I'm Alexandre 👋
 
-<!--
-**AlexandreWoltersdorf/AlexandreWoltersdorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AEC Software Engineer & Simulation Specialist** based in Luxembourg/France.
+I bridge the gap between **Structural Engineering** and **Modern Software Architecture** to build scalable, carbon-negative construction systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+Leading computational engineering at **LEKO LABS**, developing Python-based pipelines for automated timber manufacturing and structural analysis.
+
+> **⚠️ Note on GitHub Activity:**
+> Most of my daily contributions take place in private organization repositories at **LEKO LABS**.
+> The repositories below represent my personal R&D experiments and portfolio projects.
+
+---
+
+### 🛠️ Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Core & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| **AEC & Geometry** | ![Rhino](https://img.shields.io/badge/Rhino-black?style=flat) ![Speckle](https://img.shields.io/badge/Speckle-0A58FF?style=flat) ![Cadwork](https://img.shields.io/badge/Cadwork-red?style=flat) |
+| **Viz & Web** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+---
+
+### 🧩 Featured Projects
+
+#### 🏗️ [AEC Computational Platform](https://github.com/AlexandreWoltersdorf/aec-computational-platform)
+*(Architecture Demo)*
+A decoupled system architecture demonstrating how to connect **Rhino/Grasshopper** (Design) to **Web Dashboards** (Engineering) via a central Python Core Engine.
+*   **Key Tech:** Python, Speckle, FastAPI, Cadwork API logic.
+
+#### 🌉 [Civil Infrastructure Analytics](https://github.com/AlexandreWoltersdorf/civil-infrastructure-analytics)
+*(Scientific Computing)*
+Toolkit for Structural Health Monitoring (SHM). Features time-series detrending and HST statistical modeling for dam/bridge monitoring.
+*   **Key Tech:** Scipy, Signal Processing, Statistical Modeling.
+
+#### 📈 [Quantitative Portfolio Manager](https://github.com/AlexandreWoltersdorf/quantitative-portfolio-manager)
+*(Full-Stack App)*
+Interactive financial dashboard for portfolio tracking and risk analysis (Drawdown, Volatility).
+*   **Key Tech:** Streamlit, Yahoo Finance API, SQLite, Plotly.
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ton-profil-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</div>
