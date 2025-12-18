@@ -37,10 +37,13 @@ A decoupled system architecture demonstrating how to connect **Rhino/Grasshopper
 Toolkit for Structural Health Monitoring (SHM). Features time-series detrending and HST statistical modeling for dam/bridge monitoring.
 *   **Key Tech:** Scipy, Signal Processing, Statistical Modeling.
 
-#### 📈 [Quantitative Portfolio Manager](https://github.com/AlexandreWoltersdorf/quantitative-portfolio-manager)
-*(Full-Stack App)*
-Interactive financial dashboard for portfolio tracking and risk analysis (Drawdown, Volatility).
-*   **Key Tech:** Streamlit, Yahoo Finance API, SQLite, Plotly.
+#### 🌍 [climate-risk-analytics](https://github.com/climate-analytics)
+*(Geospatial Data Engineering)*
+Development of physical risk assessment pipelines aligned with **TCFD** (Climate) and **TNFD** (Nature) frameworks. Quantifies asset exposure to hazards (Floods, Heatwaves) for real estate portfolios.
+*   **Key Tech:** Python (Rasterio, Geopandas), PostGIS, Climate Data Store (CDS/ERA5), Risk Modeling.
+
+
+
 
 ---
 
