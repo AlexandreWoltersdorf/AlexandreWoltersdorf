@@ -29,7 +29,7 @@ Leading computational engineering at **LEKO**, developing Python-based pipelines
 #### 🏗️ [AEC Computational Platform](https://github.com/AlexandreWoltersdorf/aec-computational-platform)
 *(Architecture Demo)*
 A decoupled system architecture demonstrating how to connect **Rhino/Grasshopper** (Design) to **Web Dashboards** (Engineering) via a central Python Core Engine.
-*   **Key Tech:** Python, Speckle, FastAPI, Cadwork API logic.
+*   **Key Tech:** Python, Speckle, FastAPI
 
 #### 🌉 [Civil Infrastructure Analytics](https://github.com/AlexandreWoltersdorf/structural-health-monitoring)
 *(Scientific Computing)*
