@@ -36,7 +36,7 @@ A decoupled system architecture demonstrating how to connect **Rhino/Grasshopper
 Toolkit for Structural Health Monitoring (SHM). Features time-series detrending and HST statistical modeling for dam/bridge monitoring.
 *   **Key Tech:** Scipy, Signal Processing, Statistical Modeling.
 
-#### 🌍 [climate-risk-analytics](https://github.com/climate-analytics)
+#### 🌍 [climate-risk-analytics](https://github.com/climate-risk-analytics)
 *(Geospatial Data Engineering)*
 Development of physical risk assessment pipelines aligned with **TCFD** (Climate) and **TNFD** (Nature) frameworks. Quantifies asset exposure to hazards (Floods, Heatwaves) for real estate portfolios.
 *   **Key Tech:** Python (Rasterio, Geopandas), PostGIS, Climate Data Store (CDS/ERA5), Risk Modeling.
