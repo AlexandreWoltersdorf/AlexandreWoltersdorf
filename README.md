@@ -31,7 +31,7 @@ Leading computational engineering at **LEKO LABS**, developing Python-based pipe
 A decoupled system architecture demonstrating how to connect **Rhino/Grasshopper** (Design) to **Web Dashboards** (Engineering) via a central Python Core Engine.
 *   **Key Tech:** Python, Speckle, FastAPI, Cadwork API logic.
 
-#### 🌉 [Civil Infrastructure Analytics](https://github.com/AlexandreWoltersdorf/civil-infrastructure-analytics)
+#### 🌉 [Civil Infrastructure Analytics](https://github.com/AlexandreWoltersdorf/structural-health-monitoring)
 *(Scientific Computing)*
 Toolkit for Structural Health Monitoring (SHM). Features time-series detrending and HST statistical modeling for dam/bridge monitoring.
 *   **Key Tech:** Scipy, Signal Processing, Statistical Modeling.
